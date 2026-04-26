@@ -1,3 +1,6 @@
+.derived
+.swift-module-cache
+
 # Xcode
 DerivedData/
 .build/
